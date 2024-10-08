@@ -1,2 +1,0 @@
-# Genji
-Hacker Rank Tests
